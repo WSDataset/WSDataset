@@ -5,8 +5,11 @@ The collected dataset is now provided publically to help the scientific communit
 ![Weather station and components](/WeatherStation.jpg)
 
 Graphs of some snippets of acquired data from 2018, 2019, and 2020. 
+* Global Horizontal Irradiance (in W/m²)
 ![Global Horizontal Irradiance (in W/m²)](/GHI_2018.jpg)
+* Relative Humidity (in %)
 ![Relative Humidity (in %)](/RH_2019.jpg)
+* Wind Speed (in m/s)
 ![Wind Speed (in m/s)](/WS_2020.jpg)
 
 ## DOWNLOAD
