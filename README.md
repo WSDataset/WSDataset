@@ -2,4 +2,4 @@ Toward the objective of developing a PV power forecasting solution, an acquisiti
 The weather station contains a fish-eye IP camera for sky images, a pyranometer for GHIs, a barometer for atmospheric pressure, a wind sentry set for wind speed and direction, a temperature and relative humidity sensor, and a rain gauge for precipitation.
 The collected dataset is now provided publically to help the scientific community on implementing and testing prediction and forecasting techniques.
 
-![Weather station and components](/Weatherstation.jpg)
+![Weather station and components](/WeatherStation.jpg)
