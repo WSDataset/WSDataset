@@ -15,5 +15,7 @@ Graphs of some snippets of acquired data from 2018, 2019, and 2020.
 ![Wind Speed (in m/s)](/WS_2020.jpg)
 
 ## DOWNLOAD (from July 2018 to June 2020)
-* [Part 1 (100MB)](https://drive.google.com/file/d/1PhzASKwkKVJ7P0OIS_Mh3dGTMZ_uIGcf/view?usp=sharing)
-* [Part 2 (100MB)](https://drive.google.com/file/d/1z8qKLoag6IsRLeKMjQjKfFH9d_wQpBJN/view?usp=sharing)
+* [Part 1 (100MB)](https://drive.google.com/file/d/1HG6ymaA8sONUOsmQzioDVSdvuFjTodvU/view?usp=sharing)
+* [Part 2 (100MB)](https://drive.google.com/file/d/1wwhp9QmPoNyuAjDQ252ZV_d6f8KXo5aO/view?usp=sharing)
+* [Part 3 (100MB)](https://drive.google.com/file/d/1-J3HL5JsLpcZfVX-TOAzXW7vULXvAzqV/view?usp=sharing)
+* [Part 4 (<100MB)](https://drive.google.com/file/d/11W2noYZ62u-DAs7rS2Vmj5qD_flQTlGo/view?usp=sharing)
